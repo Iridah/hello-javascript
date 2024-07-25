@@ -24,11 +24,11 @@ console.log('¡Hola, JavaScript!')
 console.log(`¡Hola, JavaScript!`)
 */
 
-console.log("5")
-console.log(5)
-console.log(5 + 2)
-console.log(5 - 2)
-console.log(5 * 2)
-console.log(5 / 2)
-console.log(5 % 2)
-console.log(5 ** 2)
+console.log("5")   //string de datos, por las comillas  
+console.log(5)     //numero
+console.log(5 + 2) //suma
+console.log(5 - 2) //resta
+console.log(5 * 2) //multiplicacion
+console.log(5 / 2) //division
+console.log(5 % 2) //cuociente
+console.log(5 ** 2)//potencia
